@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: red;
+}
+p {
+    color: green; 
+}
+.backgroundcolor {
+    background-color: black;
+    color: white;
+}
+#backgroundcolor2 {
+    background-color: red;
+    color: blue;
+}
